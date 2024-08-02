@@ -1,4 +1,4 @@
-# Work In Progress, SEE SRC FOLDER FOR DETAILS
+# Work In Progress, SEE SRC FOLDER FOR CHANGES
 
 # Getting Started with Create React App
 
